@@ -1,0 +1,9 @@
+import random
+
+# Random float number between range 10.5 to 75.5
+print(random.uniform(10.5, 75.5))
+# Output 27.23469913175497
+
+# between 10 and 100
+print(random.uniform(10, 100))
+# Output 81.77036292015993vvv
